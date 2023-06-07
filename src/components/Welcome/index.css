@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.container{
+background-color: cadetblue;
+background-size:cover;
+min-height:100vh;
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.heading{
+    color:yellow;
+    font-size:30px;
+    padding:20px;
+    font-weight:700;
+    font-family: "Roboto";
+}.desc{
+    color:white;
+    font-size:20px;
+    padding:10px;
+}
+.button{
+    background-color:white;
+    height:40px;
+    width:100px;
+    border-radius: 10px;
+    color:black;
+    text-align:center;
+}
